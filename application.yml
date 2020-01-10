@@ -4,7 +4,7 @@ applications:
     memory: 1G
     instances: 1
     buildpack: java_buildpack
-    path: target/dtv-app-0.0.1-SNAPSHOT.jar
+    path: target/DtvApp-0.0.1-SNAPSHOT.jar
     services:
       server:
         port: 5432
